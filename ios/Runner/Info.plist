@@ -6,6 +6,8 @@
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Flutter All</string>
+	<!-- <key>CFBundleURLTypes</key>
+	<String>com.googleusercontent.apps.583347049241-ueu6frhhhkcs11jsdov32n4c4b2jafv7</String> -->
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
